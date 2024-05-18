@@ -18,7 +18,7 @@ these functions to get the most current lists of valid symbols, which you can
 then use as an input to the \code{map} argument of \code{checkGeneSymbols}. 
 Make sure to change the default \code{species="human"} argument to \code{checkGeneSymbols} 
 if you are doing this for mouse. Use \code{getCurrentHumanMap} for HGNC human gene 
-symbols from \url{genenames.org} and \code{getCurrentMouseMap} for MGI mouse gene 
+symbols from \url{https://www.genenames.org/} and \code{getCurrentMouseMap} for MGI mouse gene 
 symbols from \url{https://www.informatics.jax.org/downloads/reports/MGI_EntrezGene.rpt}.
 }
 \examples{
