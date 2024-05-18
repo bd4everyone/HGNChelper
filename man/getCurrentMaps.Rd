@@ -19,7 +19,7 @@ then use as an input to the \code{map} argument of \code{checkGeneSymbols}.
 Make sure to change the default \code{species="human"} argument to \code{checkGeneSymbols} 
 if you are doing this for mouse. Use \code{getCurrentHumanMap} for HGNC human gene 
 symbols from \url{genenames.org} and \code{getCurrentMouseMap} for MGI mouse gene 
-symbols from \url{www.informatics.jax.org/downloads/reports/MGI_EntrezGene.rpt}.
+symbols from \url{https://www.informatics.jax.org/downloads/reports/MGI_EntrezGene.rpt}.
 }
 \examples{
 \dontrun{
