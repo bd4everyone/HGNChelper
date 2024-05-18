@@ -1,7 +1,7 @@
 ## human test 1
 x = c("FN1", "TP53", "UNKNOWNGENE",
       "7-Sep", "9/7", "1-Mar", "Oct4", "4-Oct", "OCT4-PG4", 
-      "C19ORF71", "C19orf71")
+      "C2ORF88", "C2orf88")
 
 expect_warning(res <- checkGeneSymbols(x))
 
@@ -12,7 +12,7 @@ expect_equal(res[,2], c(TRUE, TRUE, FALSE,
 
 expected.correct <- c("FN1", "TP53", NA,
                       "SEPTIN7", "SEPTIN7", "MARCHF1 /// MTARC1",
-                      "POU5F1", "POU5F1", "POU5F1P4", "C19orf71", "C19orf71")
+                      "POU5F1", "POU5F1", "POU5F1P4", "C2orf88", "C2orf88")
 
 expect_equal(as.character(res[,3]), expected.correct)
 
@@ -30,7 +30,7 @@ x = c("C21orf62-AS1", "c21orf62-as1",
       "7-Sep", "1-Mar", "1-MAR")
 
 expect_warning(res <- checkGeneSymbols(x))
-answers <- c(TRUE, FALSE,
+answers <- c(FALSE, FALSE,
              TRUE, FALSE,
              FALSE, TRUE,
              TRUE,
@@ -38,7 +38,7 @@ answers <- c(TRUE, FALSE,
              FALSE, FALSE, FALSE)
 expect_equal(sum(res[,1] != x), 0)
 expect_equal(sum(res[,2] != answers), 0)
-expect_equal(as.character(res[,3]), c("C21orf62-AS1", "C21orf62-AS1",
+expect_equal(as.character(res[,3]), c("EPCIP-AS1", "EPCIP-AS1",
                                       "MORF4L1P7", "MORF4L1P7",
                                       "FN1", "FN1",
                                       "TP53",
