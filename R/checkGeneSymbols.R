@@ -80,7 +80,7 @@ checkGeneSymbols <- function(x,
                           package = "HGNChelper"))
   
   # check input class
-  if (class(x) != "character") {
+  if (!is(x, "character")) {
     x <- as.character(x)
     warning("coercing x to character.")
   }
