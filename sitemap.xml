@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/404.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/404.html</loc>
   </url>
   <url>
-    <loc>/articles/index.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/articles/index.html</loc>
   </url>
   <url>
-    <loc>/authors.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/authors.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/index.html</loc>
   </url>
   <url>
-    <loc>/reference/HGNChelper-package.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/HGNChelper-package.html</loc>
   </url>
   <url>
-    <loc>/reference/affyToR.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/affyToR.html</loc>
   </url>
   <url>
-    <loc>/reference/checkGeneSymbols.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/checkGeneSymbols.html</loc>
   </url>
   <url>
-    <loc>/reference/findExcelGeneSymbols.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/findExcelGeneSymbols.html</loc>
   </url>
   <url>
-    <loc>/reference/getCurrentMaps.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/getCurrentMaps.html</loc>
   </url>
   <url>
-    <loc>/reference/hgnc.table.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/hgnc.table.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/mouse.table.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/mouse.table.html</loc>
   </url>
   <url>
-    <loc>/reference/rToAffy.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/rToAffy.html</loc>
   </url>
   <url>
-    <loc>/reference/rToSymbol.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/rToSymbol.html</loc>
   </url>
   <url>
-    <loc>/reference/symbolToR.html</loc>
+    <loc>https://waldronlab.io/HGNChelper/reference/symbolToR.html</loc>
   </url>
 </urlset>
