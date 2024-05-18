@@ -14,7 +14,7 @@ Description: Contains functions for
  which have been converted to date format by Excel, withdrawn, or aliased.
  Also contains functions for reversibly converting between HGNC
  symbols and valid R names.
-URL: https://github.com/waldronlab/HGNChelper
+URL: https://github.com/waldronlab/HGNChelper, https://waldronlab.io/HGNChelper/
 BugReports: https://github.com/waldronlab/HGNChelper/issues
 LazyData: TRUE
 RoxygenNote: 7.3.1
