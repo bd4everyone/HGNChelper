@@ -52,7 +52,10 @@ getCurrentHumanMap <- function(){
     hgnc.table <- hgnc.table[is.ascii, ]
     return(hgnc.table)
   }
-  url <- "ftp://ftp.ebi.ac.uk/pub/databases/genenames/new/tsv/hgnc_complete_set.txt"
+  url <- paste0(
+    "https://storage.googleapis.com/public-download-files/",
+    "hgnc/tsv/tsv/hgnc_complete_set.txt"
+  )
   if(!file.exists("hgnc_complete_set.txt")){
     message(paste("Fetching human gene symbols from", url))
     download.file(url, destfile = "hgnc_complete_set.txt")    
