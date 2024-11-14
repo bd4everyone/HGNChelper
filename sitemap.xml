@@ -1,48 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/404.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/index.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/HGNChelper-package.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/affyToR.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/checkGeneSymbols.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/findExcelGeneSymbols.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/getCurrentMaps.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/hgnc.table.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/mouse.table.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/rToAffy.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/rToSymbol.html</loc>
-  </url>
-  <url>
-    <loc>https://waldronlab.io/HGNChelper/reference/symbolToR.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://waldronlab.io/HGNChelper/404.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/articles/index.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/authors.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/index.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/HGNChelper-package.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/affyToR.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/checkGeneSymbols.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/findExcelGeneSymbols.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/getCurrentMaps.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/hgnc.table.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/index.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/mouse.table.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/rToAffy.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/rToSymbol.html</loc></url>
+<url><loc>https://waldronlab.io/HGNChelper/reference/symbolToR.html</loc></url>
 </urlset>
+
