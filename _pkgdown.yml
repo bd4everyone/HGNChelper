@@ -1,4 +1,8 @@
-url: https://waldronlab.io/HGNChelper/
+title: HGHChelper
+url: https://waldronlab.github.io/HGHChelper
+
 template:
   bootstrap: 5
+  params:
+    bootswatch: flatly
 
